@@ -1,0 +1,4 @@
+Dashboard Avisos Equipo 2
+Version: 1.11.0
+Base visual: Dashboard_ENERGY_V2
+Ajustes: tabla de municipios compacta en altura; autores Juan Bojacá y Andres Nova añadidos a la barra lateral
